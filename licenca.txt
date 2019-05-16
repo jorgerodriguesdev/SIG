@@ -1,6 +1,0 @@
-..: SisCom :..
-Sistema Comercial desenvolvido por Albert Eije para o Curso Delphi Avançado.
-
-Use e abuse!
-
-:o)
